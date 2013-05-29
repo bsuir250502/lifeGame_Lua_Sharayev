@@ -1,2 +1,2 @@
-lifeGame_Lua_Sharayev
-=====================
+Some text
+=======
